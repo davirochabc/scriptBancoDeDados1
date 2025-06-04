@@ -1,2 +1,4 @@
 # scriptBancoDeDados1
-Projeto de banco de dados I 
+Projeto de Banco de dados I
+
+Alunos: Davi Rocha e João Victor Muniz
